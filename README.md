@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.svg" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sathwik Kulkarni</h1>
 
 ## 💻 Technical Skills
@@ -80,3 +84,5 @@ Data Structures & Algorithms, Object-Oriented Programming, Software Development,
 </p>
 
 ---
+
+⭐ Thanks for visiting my profile!
