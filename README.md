@@ -1,10 +1,4 @@
-# Hi 👋, I'm Sathwik Kulkarni
-
-🎓 CSE Student at Amrita Vishwa Vidyapeetham, Coimbatore  
-💻 Interested in Software Development and Computer Science  
-🚀 Learning, building projects, and improving every day
-
----
+<h1 align="center">Hi 👋, I'm Sathwik Kulkarni</h1>
 
 ## 💻 Technical Skills
 
@@ -15,7 +9,7 @@ Data Structures & Algorithms, Object-Oriented Programming, Software Development,
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
 ### 🌐 Web Technologies
@@ -75,16 +69,14 @@ Data Structures & Algorithms, Object-Oriented Programming, Software Development,
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/sathwikkulkarni">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/sathwik-kulkarni-023691370/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-⭐ Thanks for visiting my profile!
