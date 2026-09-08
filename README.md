@@ -1,38 +1,48 @@
+# Hi 👋, I'm Sathwik Kulkarni
+
+🎓 CSE Student at Amrita Vishwa Vidyapeetham, Coimbatore  
+💻 Interested in Software Development and Computer Science  
+🚀 Learning, building projects, and improving every day
+
+---
+
 ## 💻 Technical Skills
 
-### 🧠 Areas of Interest:
+### 🧠 Areas of Interest
 
 Data Structures & Algorithms, Object-Oriented Programming, Software Development, Web Development
 
-### 👨‍💻 Programming Languages:
+### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### 🌐 Web Technologies:
+### 🌐 Web Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Databases:
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 📚 Core Computer Science:
+### 📚 Core Computer Science
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
 - Database Management Systems (DBMS)
 
-### 🛠️ Tools & Technologies:
+### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,matlab,electron,arduino" />
 </p>
+
+**Other Tools:** Code::Blocks • MySQL Workbench
 
 ---
 
@@ -40,3 +50,41 @@ Data Structures & Algorithms, Object-Oriented Programming, Software Development,
 
 - Problem Solving, Analytical Thinking, Communication
 - Time Management, Teamwork, Continuous Learning
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikkulkarni&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikkulkarni&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikkulkarni&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/sathwikkulkarni">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sathwik-kulkarni-023691370/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
