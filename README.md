@@ -1,16 +1,42 @@
-## Hi there 👋
+## 💻 Technical Skills
 
-<!--
-**sathwikkulkarni/sathwikkulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Areas of Interest:
 
-Here are some ideas to get you started:
+Data Structures & Algorithms, Object-Oriented Programming, Software Development, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Programming Languages:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
+
+### 🌐 Web Technologies:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🗄️ Databases:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📚 Core Computer Science:
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+
+### 🛠️ Tools & Technologies:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🧠 Soft Skills
+
+- Problem Solving, Analytical Thinking, Communication
+- Time Management, Teamwork, Continuous Learning
